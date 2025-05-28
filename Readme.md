@@ -1,6 +1,6 @@
 # IKANet: A Kolmogorov-Arnold Network for Interpretable Medical Image Segmentation
 
-![image-20250528140140220](img/arch.png)
+![image](img/arch.png)
 
 ## Dependencies
 
