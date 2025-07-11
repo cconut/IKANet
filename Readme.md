@@ -33,8 +33,5 @@ python train_seg.py --epochs 500 --batch_size 4 --dataset "datasets name" --data
 
 
 
-## Citation
 
 
-
-If you have any questions, Contact us via [mingyangcheng@stu.hznu.edu.cn](mailto:mingyangcheng@stu.hznu.edu.cn).
